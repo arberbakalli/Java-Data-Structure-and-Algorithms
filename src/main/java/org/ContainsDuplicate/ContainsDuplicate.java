@@ -8,12 +8,13 @@ public class ContainsDuplicate {
    * Given an integer array nums, return true if any value appears at least twice in the array, and
    * return false if every element is distinct.
    *
-   *  nums the input array of integers
-   *  true if there are duplicates, false otherwise
-   *     <p>You should aim for a solution with O(n) time and O(n) space, where n is the size of the
-   *     input array.
-   *     <p>Hint 1 A brute force solution would be to check every element against every other
-   *     element in the array. This would be an O(n^2) solution. Can you think of a better way?
+   * <p>nums the input array of integers true if there are duplicates, false otherwise
+   *
+   * <p>You should aim for a solution with O(n) time and O(n) space, where n is the size of the
+   * input array.
+   *
+   * <p>Hint 1 A brute force solution would be to check every element against every other element in
+   * the array. This would be an O(n^2) solution. Can you think of a better way?
    */
   public static void main(String[] args) {
     ContainsDuplicate containsDuplicate = new ContainsDuplicate();
