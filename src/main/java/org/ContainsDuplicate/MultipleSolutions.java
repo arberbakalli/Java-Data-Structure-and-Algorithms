@@ -1,4 +1,4 @@
-package org.example;
+package org.ContainsDuplicate;
 
 import java.util.Arrays;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package org.example;
+package org.ContainsDuplicate;
 
 import java.util.HashMap;
 
@@ -8,8 +8,8 @@ public class ContainsDuplicate {
    * Given an integer array nums, return true if any value appears at least twice in the array, and
    * return false if every element is distinct.
    *
-   * @param /nums the input array of integers
-   * @return true if there are duplicates, false otherwise
+   *  nums the input array of integers
+   *  true if there are duplicates, false otherwise
    *     <p>You should aim for a solution with O(n) time and O(n) space, where n is the size of the
    *     input array.
    *     <p>Hint 1 A brute force solution would be to check every element against every other
