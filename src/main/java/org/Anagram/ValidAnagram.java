@@ -4,8 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.stream.Collectors;
 
-record EdgeCase(String s, String t) {}
-
 public class ValidAnagram {
   public static void main(String[] args) {
     ValidAnagram va = new ValidAnagram();
